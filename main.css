@@ -10,6 +10,7 @@
 
   /* primary main color  */
   --clr-primary-5: hsl(185, 62%, 45%);
+  --clr-primary-5: hsl(0, 62%, 45%);
 
   /*lighter shade of primary color  */
   --clr-primary-6: hsl(185, 57%, 50%);
